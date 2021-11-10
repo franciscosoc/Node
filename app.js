@@ -4,11 +4,11 @@ const fs = require('fs');
 
 console.clear();
 console.log('===============')
-console.log(' Tabla del: 9')
+console.log(' Tabla del: 2')
 console.log('===============')
 
 
-const base=9;
+const base=2;
 let salida='';
 
 for (let i = 1; i <= 10; i++) {
